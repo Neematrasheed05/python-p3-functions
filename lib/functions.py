@@ -3,8 +3,6 @@
 def greet_programmer():
     print("Hello, programmer!")
 
-#!/usr/bin/env python3
-
 def greet(name="programmer"):
     print(f"Hello, {name}!")
 
